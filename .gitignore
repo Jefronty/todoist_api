@@ -1,0 +1,10 @@
+# python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# local only
+.vscode/
+
+# cached
+*.save*
